@@ -1,0 +1,59 @@
+about:
+  description: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
+  license: NOASSERTION
+  homepage: https://context-mode.com
+  head: 6b8bf61
+  archived: false
+  latestVersion: v1.0.169
+  collectedAt: 2026-09-01T05:18:22Z
+timeline:
+  created: 2026-02-23
+  lastCommit: 2026-08-31
+  lastRelease: 2026-06-29
+popularity:
+  star: 20287
+  watcher: 89
+  fork: 1475
+  release: 195
+  contributor: 114
+  pullRequest: 288
+  issue: 512
+language:
+  TypeScript: 5074070
+  JavaScript: 2072440
+  HTML: 163532
+  Shell: 65686
+totalLine: 7375728
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 0
+    openPR: 29
+    closedIssue: 3
+    openIssue: 40
+    commit: 42
+  last90d:
+    since: 2026-06-03
+    release: 7
+    mergedPR: 26
+    openPR: 91
+    closedIssue: 63
+    openIssue: 106
+    commit: 240
+  last180d:
+    since: 2026-03-05
+    release: 100
+    mergedPR: 238
+    openPR: 91
+    closedIssue: 375
+    openIssue: 106
+    commit: 1677
+  last360d:
+    since: 2025-09-06
+    release: 100
+    mergedPR: 256
+    openPR: 91
+    closedIssue: 405
+    openIssue: 107
+    commit: 1992
