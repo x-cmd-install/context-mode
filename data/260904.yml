@@ -1,59 +1,87 @@
 about:
-  description: Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
+  description:
+  |
+    Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
   license: NOASSERTION
   homepage: https://context-mode.com
-  head: 0ebbc2b
+  head: 5e14177
   archived: false
   latestVersion: v1.0.169
-  collectedAt: 2026-09-04T04:41:48Z
+  collectedAt: 2026-09-04T19:38:27Z
 timeline:
   created: 2026-02-23
-  lastCommit: 2026-09-03
+  lastCommit: 2026-09-04
   lastRelease: 2026-06-29
 popularity:
-  star: 20342
+  star: 20357
   watcher: 90
-  fork: 1477
+  fork: 1481
   release: 195
   contributor: 114
-  pullRequest: 294
+  pullRequest: 552
   issue: 516
 language:
   TypeScript: 5074070
   JavaScript: 2072440
   HTML: 163532
   Shell: 65686
-totalLine: 7375728
+totalBytes: 7375728
 recent:
   last30d:
     since: 2026-08-05
     release: 0
     mergedPR: 0
-    openPR: 31
+    openPR: 33
     closedIssue: 4
     openIssue: 41
-    commit: 46
+    commit: 47
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 75
+    closedIssue: 13
+    openIssue: 87
+    commit: 97
   last90d:
     since: 2026-06-06
     release: 7
     mergedPR: 22
-    openPR: 96
+    openPR: 98
     closedIssue: 58
     openIssue: 109
-    commit: 244
+    commit: 245
   last180d:
     since: 2026-03-08
     release: 100
     mergedPR: 230
-    openPR: 96
+    openPR: 98
     closedIssue: 373
     openIssue: 109
-    commit: 1681
+    commit: 1682
   last360d:
     since: 2025-09-09
     release: 100
     mergedPR: 256
-    openPR: 96
+    openPR: 98
     closedIssue: 406
     openIssue: 110
-    commit: 1996
+    commit: 1997
+  last720d:
+    since: 2024-09-14
+    release: 100
+    mergedPR: 256
+    openPR: 98
+    closedIssue: 406
+    openIssue: 110
+    commit: 2170
+total:
+  release: 195
+  mergedPR: 256
+  openPR: 98
+  closedIssue: 406
+  openIssue: 110
+  commit: 2170
+---
+---
+
