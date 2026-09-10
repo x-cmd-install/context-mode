@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.169"
   latestRelease: "v1.0.169"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:18:48Z
+  collectedAt: 2026-09-10T22:29:53Z
 timeline:
   created: 2026-02-23
   lastCommit: 2026-09-10
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-29
   lastPrerelease: 
 popularity:
-  star: 21983
+  star: 21995
   watcher: 93
   fork: 1582
   release: 195
@@ -86,7 +86,7 @@ total:
   commit: 2177
 ---
 path: /home/runner/.x-repo/github.com/mksglu/context-mode
-collectedAt: 2026-09-10T21:18:55Z
+collectedAt: 2026-09-10T22:29:59Z
 loc:
   TypeScript:
     code: 92588
