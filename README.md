@@ -1,24 +1,64 @@
 # context-mode
 
+[中文版本](./README.cn.md)
+
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 
-- **Upstream**: <https://github.com/mksglu/context-mode>
-- **Homepage**: <https://context-mode.com>
-- **Latest release**: `v1.0.169` (2026-06-29)
-- **Last commit**: 2026-09-09
-- **License**: NOASSERTION
-- **Stars**: 21672 · **Forks**: 1557 · **Open issues**: 525 · **Contributors**: 114
+![context-mode](https://repo.x-cmd.io/context-mode.svg)
 
-## Installation
+## Install
 
 ```sh
 x install context-mode
 ```
 
-See <https://x-cmd.com/install/context-mode> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/mksglu/context-mode>
+- **Homepage**: <https://context-mode.com>
+- **License**: NOASSERTION
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:19:11Z._
+- **Latest**: `v1.0.169` (2026-06-29)
+- **Last commit**: 2026-09-09
+- **Published**: 2026-06-29T18:18:53Z
+
+## Popularity
+
+- **Stars**: 21,792 · **Forks**: 1,568 · **Open issues**: 526 · **Contributors**: 114
+
+## Totals (cumulative)
+
+- **Releases**: 195 · **Merged PRs**: 256 · **Open PRs**: 107 · **Closed issues**: 406 · **Open issues**: 120 · **Commits**: 2175
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 36 | 4 | 47 | 39 |
+| 90d | 2026-06-12 | 7 | 12 | 107 | 46 | 119 | 215 |
+| 360d | 2025-09-15 | 100 | 256 | 107 | 406 | 120 | 2002 |
+
+## Code size
+
+Total: **106,837** lines of code across **465** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| TypeScript | 92,588 | 21,324 | 12,642 | 318 |
+| JavaScript | 9,266 | 3,614 | 1,127 | 93 |
+| Json | 2,036 | 0 | 0 | 43 |
+| Html | 1,662 | 19 | 47 | 7 |
+| Sh | 1,253 | 178 | 221 | 4 |
+
+## Improve this data
+
+Install metadata for context-mode lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `context-mode` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/context-mode.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T03:35:09Z._
