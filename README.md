@@ -21,24 +21,23 @@ x install context-mode
 ## Release
 
 - **Latest**: `v1.0.169` (2026-06-29)
-- **Last commit**: 2026-09-09
-- **Published**: 2026-06-29T18:18:53Z
+- **Last commit**: 2026-09-10
 
 ## Popularity
 
-- **Stars**: 21,792 · **Forks**: 1,568 · **Open issues**: 526 · **Contributors**: 114
+- **Stars**: 21,930 · **Forks**: 1,581 · **Open issues**: 526 · **Contributors**: 114
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 256 · **Open PRs**: 107 · **Closed issues**: 406 · **Open issues**: 120 · **Commits**: 2175
+- **Releases**: 195 · **Merged PRs**: 256 · **Open PRs**: 109 · **Closed issues**: 406 · **Open issues**: 120 · **Commits**: 2176
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 36 | 4 | 47 | 39 |
-| 90d | 2026-06-12 | 7 | 12 | 107 | 46 | 119 | 215 |
-| 360d | 2025-09-15 | 100 | 256 | 107 | 406 | 120 | 2002 |
+| 30d | 2026-08-11 | 0 | 0 | 38 | 4 | 47 | 40 |
+| 90d | 2026-06-12 | 7 | 12 | 109 | 46 | 119 | 216 |
+| 360d | 2025-09-15 | 100 | 256 | 109 | 406 | 120 | 2003 |
 
 ## Code size
 
@@ -57,8 +56,8 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 Install metadata for context-mode lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `context-mode` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/context-mode.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/context-mode.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:35:09Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:04:02Z._

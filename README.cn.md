@@ -4,7 +4,7 @@
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 
-![context-mode](https://repo.x-cmd.io/context-mode.svg)
+![context-mode](https://repo.x-cmd.io/context-mode.svg?lang=zh)
 
 ## 安装
 
@@ -21,24 +21,23 @@ x install context-mode
 ## 发布
 
 - **最新版本**: `v1.0.169` (2026-06-29)
-- **最近提交**: 2026-09-09
-- **发布时间**: 2026-06-29T18:18:53Z
+- **最近提交**: 2026-09-10
 
 ## 流行度
 
-- **Star**: 21,792 · **Fork**: 1,568 · **开放 issue**: 526 · **贡献者**: 114
+- **Star**: 21,930 · **Fork**: 1,581 · **开放 issue**: 526 · **贡献者**: 114
 
 ## 累计统计
 
-- **发布数**: 195 · **已合并 PR**: 256 · **开放 PR**: 107 · **已关闭 issue**: 406 · **开放 issue**: 120 · **提交数**: 2175
+- **发布数**: 195 · **已合并 PR**: 256 · **开放 PR**: 109 · **已关闭 issue**: 406 · **开放 issue**: 120 · **提交数**: 2176
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 36 | 4 | 47 | 39 |
-| 90d | 2026-06-12 | 7 | 12 | 107 | 46 | 119 | 215 |
-| 360d | 2025-09-15 | 100 | 256 | 107 | 406 | 120 | 2002 |
+| 30d | 2026-08-11 | 0 | 0 | 38 | 4 | 47 | 40 |
+| 90d | 2026-06-12 | 7 | 12 | 109 | 46 | 119 | 216 |
+| 360d | 2025-09-15 | 100 | 256 | 109 | 406 | 120 | 2003 |
 
 ## 代码规模
 
@@ -61,4 +60,4 @@ context-mode 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:35:09Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:04:02Z._
