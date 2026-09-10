@@ -37,7 +37,7 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 21,983 · **Forks**: 1,582 · **Open issues**: 526 · **Contributors**: 114
+- **Stars**: 21,995 · **Forks**: 1,582 · **Open issues**: 526 · **Contributors**: 114
 
 ## Totals (cumulative)
 
@@ -63,4 +63,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:19:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:30:04Z._
