@@ -4,7 +4,7 @@
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 
-![context-mode](https://repo.x-cmd.io/context-mode.svg?lang=zh)
+[![x-cmd/install — context-mode Code Quality Monitoring Repo Card](https://repo.x-cmd.io/context-mode.svg?lang=zh)](https://x-cmd.com/install/context-mode)
 
 ## 安装
 
@@ -33,26 +33,26 @@ x install context-mode
 ## 发布
 
 - **最新版本**: `v1.0.169` (2026-06-29)
-- **最近提交**: 2026-09-17
+- **最近提交**: 2026-09-19
 
 ## 流行度
 
-- **Star**: 23,416 · **Fork**: 1,685 · **开放 issue**: 539 · **贡献者**: 114
+- **Star**: 23,686 · **Fork**: 1,709 · **开放 issue**: 540 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 195 · **已合并 PR**: 256 · **开放 PR**: 125 · **已关闭 issue**: 409 · **开放 issue**: 130 · **提交数**: 2189
+- **发布数**: 195 · **已合并 PR**: 258 · **开放 PR**: 132 · **已关闭 issue**: 409 · **开放 issue**: 131 · **提交数**: 2191
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 49 | 5 | 45 | 42 |
-| last60d | 2026-07-20 | 0 | 0 | 77 | 10 | 86 | 93 |
-| 90d | 2026-06-20 | 7 | 6 | 125 | 31 | 129 | 187 |
-| last180d | 2026-03-22 | 100 | 219 | 125 | 342 | 129 | 1471 |
-| 360d | 2025-09-23 | 100 | 256 | 125 | 409 | 130 | 2016 |
-| last720d | 2024-09-28 | 100 | 256 | 125 | 409 | 130 | 2189 |
+| 30d | 2026-08-21 | 0 | 0 | 56 | 5 | 44 | 44 |
+| last60d | 2026-07-22 | 0 | 0 | 81 | 10 | 83 | 95 |
+| 90d | 2026-06-22 | 6 | 3 | 129 | 24 | 128 | 189 |
+| last180d | 2026-03-24 | 100 | 219 | 132 | 335 | 130 | 1475 |
+| 360d | 2025-09-25 | 100 | 258 | 132 | 409 | 131 | 2020 |
+| last720d | 2024-09-30 | 100 | 258 | 132 | 409 | 131 | 2191 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ context-mode 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T03:42:20Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T03:55:13Z._
