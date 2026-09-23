@@ -4,7 +4,7 @@
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 
-[![x-cmd/install — context-mode Code Quality Monitoring Repo Card](https://repo.x-cmd.io/context-mode.svg?lang=zh)](https://x-cmd.com/install/context-mode)
+[![x-cmd/install — context-mode Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/context-mode.svg?lang=zh)](https://x-cmd.com/install/context-mode)
 
 ## 安装
 
@@ -33,26 +33,26 @@ x install context-mode
 ## 发布
 
 - **最新版本**: `v1.0.169` (2026-06-29)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 
 ## 流行度
 
-- **Star**: 23,896 · **Fork**: 1,722 · **开放 issue**: 544 · **贡献者**: 115
+- **Star**: 23,963 · **Fork**: 1,728 · **开放 issue**: 547 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 195 · **已合并 PR**: 258 · **开放 PR**: 133 · **已关闭 issue**: 409 · **开放 issue**: 135 · **提交数**: 2193
+- **发布数**: 195 · **已合并 PR**: 258 · **开放 PR**: 136 · **已关闭 issue**: 409 · **开放 issue**: 138 · **提交数**: 2195
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 57 | 5 | 48 | 35 |
-| last60d | 2026-07-24 | 0 | 0 | 78 | 10 | 85 | 85 |
-| 90d | 2026-06-24 | 3 | 0 | 127 | 23 | 130 | 137 |
-| last180d | 2026-03-26 | 100 | 217 | 133 | 334 | 134 | 1431 |
-| 360d | 2025-09-27 | 100 | 258 | 133 | 409 | 135 | 2022 |
-| last720d | 2024-10-02 | 100 | 258 | 133 | 409 | 135 | 2193 |
+| 30d | 2026-08-24 | 0 | 0 | 57 | 5 | 46 | 37 |
+| last60d | 2026-07-25 | 0 | 0 | 81 | 9 | 88 | 87 |
+| 90d | 2026-06-25 | 3 | 0 | 130 | 22 | 132 | 139 |
+| last180d | 2026-03-27 | 100 | 215 | 136 | 329 | 137 | 1433 |
+| 360d | 2025-09-28 | 100 | 258 | 136 | 409 | 138 | 2024 |
+| last720d | 2024-10-03 | 100 | 258 | 136 | 409 | 138 | 2195 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ context-mode 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T03:49:11Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T03:47:45Z._

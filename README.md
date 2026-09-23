@@ -4,7 +4,7 @@
 
 Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 
-[![x-cmd/install — context-mode Code Quality Monitoring Repo Card](https://repo.x-cmd.io/context-mode.svg)](https://x-cmd.com/install/context-mode)
+[![x-cmd/install — context-mode Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/context-mode.svg)](https://x-cmd.com/install/context-mode)
 
 ## Install
 
@@ -33,26 +33,26 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.169` (2026-06-29)
-- **Last commit**: 2026-09-21
+- **Last commit**: 2026-09-22
 
 ## Popularity
 
-- **Stars**: 23,896 · **Forks**: 1,722 · **Open issues**: 544 · **Contributors**: 115
+- **Stars**: 23,963 · **Forks**: 1,728 · **Open issues**: 547 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 258 · **Open PRs**: 133 · **Closed issues**: 409 · **Open issues**: 135 · **Commits**: 2193
+- **Releases**: 195 · **Merged PRs**: 258 · **Open PRs**: 136 · **Closed issues**: 409 · **Open issues**: 138 · **Commits**: 2195
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 57 | 5 | 48 | 35 |
-| last60d | 2026-07-24 | 0 | 0 | 78 | 10 | 85 | 85 |
-| 90d | 2026-06-24 | 3 | 0 | 127 | 23 | 130 | 137 |
-| last180d | 2026-03-26 | 100 | 217 | 133 | 334 | 134 | 1431 |
-| 360d | 2025-09-27 | 100 | 258 | 133 | 409 | 135 | 2022 |
-| last720d | 2024-10-02 | 100 | 258 | 133 | 409 | 135 | 2193 |
+| 30d | 2026-08-24 | 0 | 0 | 57 | 5 | 46 | 37 |
+| last60d | 2026-07-25 | 0 | 0 | 81 | 9 | 88 | 87 |
+| 90d | 2026-06-25 | 3 | 0 | 130 | 22 | 132 | 139 |
+| last180d | 2026-03-27 | 100 | 215 | 136 | 329 | 137 | 1433 |
+| 360d | 2025-09-28 | 100 | 258 | 136 | 409 | 138 | 2024 |
+| last720d | 2024-10-03 | 100 | 258 | 136 | 409 | 138 | 2195 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T03:49:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:47:44Z._
