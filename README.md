@@ -33,26 +33,26 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.169` (2026-06-29)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-11
 
 ## Popularity
 
-- **Stars**: 25,998 · **Forks**: 1,875 · **Open issues**: 587 · **Contributors**: 115
+- **Stars**: 26,399 · **Forks**: 1,901 · **Open issues**: 588 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 258 · **Open PRs**: 167 · **Closed issues**: 415 · **Open issues**: 172 · **Commits**: 2223
+- **Releases**: 195 · **Merged PRs**: 258 · **Open PRs**: 169 · **Closed issues**: 415 · **Open issues**: 173 · **Commits**: 2226
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 68 | 6 | 55 | 46 |
-| last60d | 2026-08-11 | 0 | 0 | 99 | 11 | 100 | 91 |
-| 90d | 2026-07-12 | 0 | 0 | 133 | 19 | 139 | 142 |
-| last180d | 2026-04-13 | 93 | 198 | 167 | 296 | 171 | 1267 |
-| 360d | 2025-10-15 | 100 | 258 | 167 | 415 | 172 | 2052 |
-| last720d | 2024-10-20 | 100 | 258 | 167 | 415 | 172 | 2223 |
+| 30d | 2026-09-11 | 0 | 0 | 68 | 5 | 56 | 37 |
+| last60d | 2026-08-12 | 0 | 0 | 101 | 11 | 97 | 81 |
+| 90d | 2026-07-13 | 0 | 0 | 134 | 19 | 138 | 133 |
+| last180d | 2026-04-14 | 90 | 182 | 169 | 294 | 172 | 1211 |
+| 360d | 2025-10-16 | 100 | 258 | 169 | 415 | 173 | 2055 |
+| last720d | 2024-10-21 | 100 | 258 | 169 | 415 | 173 | 2226 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T04:49:56Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T04:36:18Z._
