@@ -43,14 +43,14 @@
   "body": "## Context-savings reporting + FinOps accuracy\n\nThis release aligns context-savings reporting between the local `ctx stats` view and the Insight platform, and corrects per-turn cost attribution.\n\n### Improvements\n- The local \"Where you are now\" savings bar now reflects the whole live conversation window — the main session plus the sub-agent and sandbox sessions it spawns — rather than a single session id.\n- The kept-out ratio is reported to one decimal, so a genuine 99.9% window is no longer rounded up to a misleading 100%.\n\n### Fixes\n- Retrieval access cost (`bytes_retrieved`) for `ctx_search` / `ctx_fetch_and_index` is now bridged from the MCP server to the forward pipe, so the platform can derive the with/without ratio. Previously the retrieval signal never reached the dashboard.\n- \"With context-mode\" counts retrieval-tool returns only, not sandbox compute output, so the ratio is honest.\n- A Task sub-agent's cumulative usage is no longer priced as a single turn, preventing inflated per-event cost from poisoning FinOps aggregates.\n\nAll changes are additive and backward compatible.\n",
   "reactions": {
     "url": "https://api.github.com/repos/mksglu/context-mode/releases/346435394/reactions",
-    "total_count": 5,
+    "total_count": 6,
     "+1": 1,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 4,
+    "rocket": 5,
     "eyes": 0
   }
 }
