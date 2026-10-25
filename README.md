@@ -33,26 +33,26 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.169` (2026-06-29)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-10-24
 
 ## Popularity
 
-- **Stars**: 32,011 · **Forks**: 2,205 · **Open issues**: 0 · **Contributors**: 116
+- **Stars**: 32,137 · **Forks**: 2,220 · **Open issues**: 0 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2245
+- **Releases**: 195 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2247
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-24 | 0 | 0 | 0 | 0 | 0 | 48 |
-| last60d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 90 |
-| 90d | 2026-07-26 | 0 | 0 | 0 | 0 | 0 | 140 |
-| last180d | 2026-04-27 | 70 | 0 | 0 | 0 | 0 | 1112 |
-| 360d | 2025-10-29 | 100 | 0 | 0 | 0 | 0 | 2074 |
-| last720d | 2024-11-03 | 100 | 0 | 0 | 0 | 0 | 2245 |
+| 30d | 2026-09-25 | 0 | 0 | 0 | 0 | 0 | 50 |
+| last60d | 2026-08-26 | 0 | 0 | 0 | 0 | 0 | 92 |
+| 90d | 2026-07-27 | 0 | 0 | 0 | 0 | 0 | 142 |
+| last180d | 2026-04-28 | 69 | 0 | 0 | 0 | 0 | 1114 |
+| 360d | 2025-10-30 | 100 | 0 | 0 | 0 | 0 | 2076 |
+| last720d | 2024-11-04 | 100 | 0 | 0 | 0 | 0 | 2247 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261024.yml` · 2026-10-24T03:42:00Z._
+_Snapshot: `data/card/261025.yml` · 2026-10-25T03:39:44Z._
