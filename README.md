@@ -32,27 +32,27 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.0.169` (2026-06-29)
-- **Last commit**: 2026-10-26
+- **Latest**: `v2.0.0-next.8` (2026-06-29)
+- **Last commit**: 2026-10-27
 
 ## Popularity
 
-- **Stars**: 32,459 · **Forks**: 2,244 · **Open issues**: 0 · **Contributors**: 116
+- **Stars**: 32,573 · **Forks**: 2,254 · **Open issues**: 0 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 195 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2250
+- **Releases**: 200 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2252
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 42 |
-| last60d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 84 |
-| 90d | 2026-07-29 | 0 | 0 | 0 | 0 | 0 | 133 |
-| last180d | 2026-04-30 | 66 | 0 | 0 | 0 | 0 | 1000 |
-| 360d | 2025-11-01 | 100 | 0 | 0 | 0 | 0 | 2079 |
-| last720d | 2024-11-06 | 100 | 0 | 0 | 0 | 0 | 2250 |
+| 30d | 2026-09-28 | 5 | 0 | 0 | 0 | 0 | 44 |
+| last60d | 2026-08-29 | 5 | 0 | 0 | 0 | 0 | 86 |
+| 90d | 2026-07-30 | 5 | 0 | 0 | 0 | 0 | 135 |
+| last180d | 2026-05-01 | 71 | 0 | 0 | 0 | 0 | 1002 |
+| 360d | 2025-11-02 | 100 | 0 | 0 | 0 | 0 | 2081 |
+| last720d | 2024-11-07 | 100 | 0 | 0 | 0 | 0 | 2252 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:06:39Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T04:34:09Z._
