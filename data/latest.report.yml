@@ -2,23 +2,23 @@ about:
   description: "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks."
   license: NOASSERTION
   homepage: https://contextmode.ai
-  head: 0f8ba10
+  head: 849c869
   archived: false
-  latestVersion: "v2.0.0-next.11"
+  latestVersion: "v2.0.0-next.16"
   latestRelease: "v1.0.169"
-  latestPrerelease: "v2.0.0-next.11"
-  collectedAt: 2026-10-29T04:48:48Z
+  latestPrerelease: "v2.0.0-next.16"
+  collectedAt: 2026-10-30T04:48:52Z
 timeline:
   created: 2026-02-23
-  lastCommit: 2026-10-28
-  lastVersion: 2026-10-28
+  lastCommit: 2026-10-29
+  lastVersion: 2026-10-30
   lastRelease: 2026-06-29
-  lastPrerelease: 2026-10-28
+  lastPrerelease: 2026-10-30
 popularity:
-  star: 32740
-  watcher: 112
-  fork: 2263
-  release: 202
+  star: 32864
+  watcher: 110
+  fork: 2270
+  release: 207
   contributor: 116
   pullRequest: 0
   issue: 0
@@ -30,63 +30,63 @@ language:
 totalBytes: 7375728
 recent:
   last30d:
-    since: 2026-09-29
-    release: 7
+    since: 2026-09-30
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 46
+    commit: 48
   last60d:
-    since: 2026-08-30
-    release: 7
+    since: 2026-08-31
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 88
+    commit: 90
   last90d:
-    since: 2026-07-31
-    release: 7
+    since: 2026-08-01
+    release: 12
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 137
+    commit: 139
   last180d:
-    since: 2026-05-02
-    release: 73
+    since: 2026-05-03
+    release: 77
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 1004
+    commit: 1006
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 100
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2083
+    commit: 2085
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 100
     mergedPR: 0
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 2254
+    commit: 2256
 total:
-  release: 202
+  release: 207
   mergedPR: 0
   openPR: 0
   closedIssue: 0
   openIssue: 0
-  commit: 2254
+  commit: 2256
 ---
 path: /home/runner/.x-repo/github.com/mksglu/context-mode
-collectedAt: 2026-10-29T04:48:53Z
+collectedAt: 2026-10-30T04:48:58Z
 loc:
   TypeScript:
     code: 92588
