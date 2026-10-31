@@ -32,27 +32,27 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.0-next.16` (2026-06-29)
-- **Last commit**: 2026-10-29
+- **Latest**: `v2.0.0-next.17` (2026-06-29)
+- **Last commit**: 2026-10-30
 
 ## Popularity
 
-- **Stars**: 32,864 · **Forks**: 2,270 · **Open issues**: 0 · **Contributors**: 116
+- **Stars**: 32,955 · **Forks**: 2,279 · **Open issues**: 0 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 207 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2256
+- **Releases**: 208 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2258
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 12 | 0 | 0 | 0 | 0 | 48 |
-| last60d | 2026-08-31 | 12 | 0 | 0 | 0 | 0 | 90 |
-| 90d | 2026-08-01 | 12 | 0 | 0 | 0 | 0 | 139 |
-| last180d | 2026-05-03 | 77 | 0 | 0 | 0 | 0 | 1006 |
-| 360d | 2025-11-04 | 100 | 0 | 0 | 0 | 0 | 2085 |
-| last720d | 2024-11-09 | 100 | 0 | 0 | 0 | 0 | 2256 |
+| 30d | 2026-10-01 | 13 | 0 | 0 | 0 | 0 | 50 |
+| last60d | 2026-09-01 | 13 | 0 | 0 | 0 | 0 | 92 |
+| 90d | 2026-08-02 | 13 | 0 | 0 | 0 | 0 | 141 |
+| last180d | 2026-05-04 | 75 | 0 | 0 | 0 | 0 | 1008 |
+| 360d | 2025-11-05 | 100 | 0 | 0 | 0 | 0 | 2087 |
+| last720d | 2024-11-10 | 100 | 0 | 0 | 0 | 0 | 2258 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T04:49:02Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T04:33:45Z._
