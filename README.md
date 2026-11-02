@@ -32,27 +32,27 @@ Total: **106,837** lines of code across **465** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.0.0-next.21` (2026-06-29)
-- **Last commit**: 2026-10-31
+- **Latest**: `v2.0.0-next.26` (2026-06-29)
+- **Last commit**: 2026-11-01
 
 ## Popularity
 
-- **Stars**: 33,053 · **Forks**: 2,278 · **Open issues**: 0 · **Contributors**: 116
+- **Stars**: 33,187 · **Forks**: 2,291 · **Open issues**: 0 · **Contributors**: 116
 
 ## Totals (cumulative)
 
-- **Releases**: 211 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2259
+- **Releases**: 216 · **Merged PRs**: 0 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 0 · **Commits**: 2260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 16 | 0 | 0 | 0 | 0 | 51 |
-| last60d | 2026-09-02 | 16 | 0 | 0 | 0 | 0 | 93 |
-| 90d | 2026-08-03 | 16 | 0 | 0 | 0 | 0 | 142 |
-| last180d | 2026-05-05 | 74 | 0 | 0 | 0 | 0 | 1009 |
-| 360d | 2025-11-06 | 100 | 0 | 0 | 0 | 0 | 2088 |
-| last720d | 2024-11-11 | 100 | 0 | 0 | 0 | 0 | 2259 |
+| 30d | 2026-10-03 | 21 | 0 | 0 | 0 | 0 | 39 |
+| last60d | 2026-09-03 | 21 | 0 | 0 | 0 | 0 | 86 |
+| 90d | 2026-08-04 | 21 | 0 | 0 | 0 | 0 | 132 |
+| last180d | 2026-05-06 | 79 | 0 | 0 | 0 | 0 | 804 |
+| 360d | 2025-11-07 | 100 | 0 | 0 | 0 | 0 | 2089 |
+| last720d | 2024-11-12 | 100 | 0 | 0 | 0 | 0 | 2260 |
 
 ## Improve this data
 
@@ -63,4 +63,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T04:54:14Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T04:55:07Z._
