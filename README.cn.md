@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
+Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry.
 
 [![x-cmd/install — context-mode Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/context-mode.svg?lang=zh)](https://x-cmd.com/install/context-mode)
 
@@ -27,32 +27,32 @@ x install context-mode
 ## 源代码
 
 - **上游仓库**: <https://github.com/mksglu/context-mode>
-- **官网**: <https://contextmode.ai>
+- **官网**: <https://contextmode.ai/?utm_source=github&utm_medium=about>
 - **许可证**: NOASSERTION
 
 ## 发布
 
-- **最新版本**: `v2.0.0-next.26` (2026-06-29)
-- **最近提交**: 2026-11-01
+- **最新版本**: `v2.0.0-next.30` (2026-06-29)
+- **最近提交**: 2026-11-03
 
 ## 流行度
 
-- **Star**: 33,187 · **Fork**: 2,291 · **开放 issue**: 0 · **贡献者**: 116
+- **Star**: 33,310 · **Fork**: 2,295 · **开放 issue**: 0 · **贡献者**: 116
 
 ## 累计统计
 
-- **发布数**: 216 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 2260
+- **发布数**: 220 · **已合并 PR**: 0 · **开放 PR**: 0 · **已关闭 issue**: 0 · **开放 issue**: 0 · **提交数**: 2263
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 21 | 0 | 0 | 0 | 0 | 39 |
-| last60d | 2026-09-03 | 21 | 0 | 0 | 0 | 0 | 86 |
-| 90d | 2026-08-04 | 21 | 0 | 0 | 0 | 0 | 132 |
-| last180d | 2026-05-06 | 79 | 0 | 0 | 0 | 0 | 804 |
-| 360d | 2025-11-07 | 100 | 0 | 0 | 0 | 0 | 2089 |
-| last720d | 2024-11-12 | 100 | 0 | 0 | 0 | 0 | 2260 |
+| 30d | 2026-10-04 | 25 | 0 | 0 | 0 | 0 | 42 |
+| last60d | 2026-09-04 | 25 | 0 | 0 | 0 | 0 | 89 |
+| 90d | 2026-08-05 | 25 | 0 | 0 | 0 | 0 | 135 |
+| last180d | 2026-05-07 | 83 | 0 | 0 | 0 | 0 | 807 |
+| 360d | 2025-11-08 | 100 | 0 | 0 | 0 | 0 | 2092 |
+| last720d | 2024-11-13 | 100 | 0 | 0 | 0 | 0 | 2263 |
 
 ## 改进这些数据
 
@@ -63,4 +63,4 @@ context-mode 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/inst
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261102.yml` · 2026-11-02T04:55:07Z._
+_数据快照: `data/card/261103.yml` · 2026-11-03T05:44:11Z._
