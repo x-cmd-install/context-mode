@@ -14,13 +14,13 @@ x install context-mode
 
 ## Code insight
 
-Total: **330,272** lines of code across **578** files in the top 5 languages.
+Total: **334,028** lines of code across **587** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 210,382 | 8,163 | 5,743 | 191 |
-| Json | 92,052 | 0 | 64 | 247 |
-| TypeScript | 19,224 | 3,273 | 1,912 | 123 |
+| JavaScript | 212,360 | 8,281 | 5,792 | 191 |
+| Json | 93,366 | 0 | 64 | 254 |
+| TypeScript | 19,688 | 3,414 | 1,965 | 125 |
 | Html | 8,518 | 77 | 714 | 16 |
 | Python | 52 | 2 | 1 | 1 |
 
@@ -32,34 +32,34 @@ Total: **330,272** lines of code across **578** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.1.0` (2026-11-05)
-- **Last commit**: 2026-11-05
+- **Latest**: `v2.1.4` (2026-11-05)
+- **Last commit**: 2026-11-06
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 33,506 · **Forks**: 2,302 · **Open issues**: 604 · **Contributors**: 115
+- **Stars**: 33,565 · **Forks**: 2,307 · **Open issues**: 614 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 231 · **Merged PRs**: 259 · **Open PRs**: 0 · **Closed issues**: 600 · **Open issues**: 4 · **Commits**: 4422
+- **Releases**: 235 · **Merged PRs**: 259 · **Open PRs**: 0 · **Closed issues**: 609 · **Open issues**: 5 · **Commits**: 4444
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 36 | 0 | 0 | 9 | 4 | 2003 |
-| last60d | 2026-09-06 | 36 | 0 | 0 | 76 | 4 | 2050 |
-| 90d | 2026-08-07 | 36 | 0 | 0 | 119 | 4 | 2096 |
-| last180d | 2026-05-09 | 94 | 113 | 0 | 391 | 4 | 2768 |
-| 360d | 2025-11-10 | 100 | 259 | 0 | 600 | 4 | 4053 |
-| last720d | 2024-11-15 | 100 | 259 | 0 | 600 | 4 | 4422 |
+| 30d | 2026-10-07 | 40 | 0 | 0 | 21 | 5 | 2025 |
+| last60d | 2026-09-07 | 40 | 0 | 0 | 88 | 5 | 2072 |
+| 90d | 2026-08-08 | 40 | 0 | 0 | 131 | 5 | 2118 |
+| last180d | 2026-05-10 | 98 | 111 | 0 | 386 | 5 | 2790 |
+| 360d | 2025-11-11 | 100 | 259 | 0 | 609 | 5 | 4075 |
+| last720d | 2024-11-16 | 100 | 259 | 0 | 609 | 5 | 4444 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [SHA256SUMS](https://github.com/mksglu/context-mode/releases/download/v2.1.0/SHA256SUMS) | 3.4 KiB | `other` |
+| [context-mode.tar.gz](https://github.com/mksglu/context-mode/releases/download/v2.1.4/context-mode.tar.gz) | 1.4 MiB | `native/unknown` |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for context-mode lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T05:38:19Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T05:34:38Z._
