@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/mksglu/context-mode/releases/434643910",
-  "assets_url": "https://api.github.com/repos/mksglu/context-mode/releases/434643910/assets",
-  "upload_url": "https://uploads.github.com/repos/mksglu/context-mode/releases/434643910/assets{?name,label}",
-  "html_url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.0",
-  "id": 434643910,
+  "url": "https://api.github.com/repos/mksglu/context-mode/releases/435798200",
+  "assets_url": "https://api.github.com/repos/mksglu/context-mode/releases/435798200/assets",
+  "upload_url": "https://uploads.github.com/repos/mksglu/context-mode/releases/435798200/assets{?name,label}",
+  "html_url": "https://github.com/mksglu/context-mode/releases/tag/v2.1.4",
+  "id": 435798200,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDORWiFDM4Z6CPG",
-  "tag_name": "v2.1.0",
+  "node_id": "RE_kwDORWiFDM4Z-cC4",
+  "tag_name": "v2.1.4",
   "target_commitish": "main",
-  "name": "v2.1.0",
+  "name": "v2.1.4",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-05T01:03:11Z",
-  "updated_at": "2026-11-05T01:03:31Z",
-  "published_at": "2026-11-05T01:03:31Z",
+  "created_at": "2026-11-05T22:05:59Z",
+  "updated_at": "2026-11-05T23:44:10Z",
+  "published_at": "2026-11-05T22:06:22Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/mksglu/context-mode/releases/assets/711546240",
-      "id": 711546240,
-      "node_id": "RA_kwDORWiFDM4qaVWA",
-      "name": "SHA256SUMS",
+      "url": "https://api.github.com/repos/mksglu/context-mode/releases/assets/714984498",
+      "id": 714984498,
+      "node_id": "RA_kwDORWiFDM4qncwy",
+      "name": "context-mode.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -63,17 +63,29 @@
         "user_view_type": "public",
         "site_admin": false
       },
-      "content_type": "application/octet-stream",
+      "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 3441,
-      "digest": "sha256:e2ef96c2f3ae3fb60a94c1c3046385e2ad2932f73710f34af256c9bb172e3288",
-      "download_count": 3,
-      "created_at": "2026-11-05T01:03:30Z",
-      "updated_at": "2026-11-05T01:03:30Z",
-      "browser_download_url": "https://github.com/mksglu/context-mode/releases/download/v2.1.0/SHA256SUMS"
+      "size": 1417549,
+      "digest": "sha256:8d0f95ec8284156a09b78dd923e02b338f7cb4db15923a626b2f8051ec451afb",
+      "download_count": 9,
+      "created_at": "2026-11-05T22:06:21Z",
+      "updated_at": "2026-11-05T22:06:22Z",
+      "browser_download_url": "https://github.com/mksglu/context-mode/releases/download/v2.1.4/context-mode.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/mksglu/context-mode/tarball/v2.1.0",
-  "zipball_url": "https://api.github.com/repos/mksglu/context-mode/zipball/v2.1.0",
-  "body": "### Features\n- feat(release): plan shows who gets each release; dry_run input (D-REL-WHO-1)\n\n### Fixes\n- fix(kiro): Kiro CLI 3.0 tool ids, stdin prompt, recall stdout and KIRO_HOME rule\n- fix(setup): OpenCode 2 list check reads the config the CLI loads; a broken Copilot CLI is SKIPPED with its own fix line (#1308)\n- fix(opencode): doctor finds the plugin's own bundle dir and accepts the OpenCode 2.x plugins list (#1306, #1307)\n- fix(setup): trust Codex 0.166 plugin hooks with trusted_hash + trusted_content_hash so an upgrade keeps them trusted (D-NI-CODEX-TRUST-4)\n- fix(intake): score issue reports, keep one comment, leave issue state to maintainers\n\n### Who gets this\n\nOne version on both channels: the release commit on main (GitHub) and npm.\n\n| Agent | Channel | Update with |\n|---|---|---|\n| Claude Code | GitHub | `claude plugin update context-mode@context-mode` |\n| Codex | GitHub, npm for the one-time hook trust step | `codex plugin marketplace upgrade context-mode` |\n| Gemini CLI | GitHub | `gemini extensions update context-mode` |\n| Qwen Code | GitHub | `qwen extensions update context-mode` |\n| Copilot CLI | npm | `context-mode upgrade` |\n| VS Code (Copilot) | npm | `context-mode upgrade` |\n| Kiro | npm | `context-mode upgrade` |\n| ZCode | npm | `context-mode upgrade` |\n| Pi | npm | `pi update --extensions` |\n| OpenCode | npm | `opencode plugin update` |"
+  "tarball_url": "https://api.github.com/repos/mksglu/context-mode/tarball/v2.1.4",
+  "zipball_url": "https://api.github.com/repos/mksglu/context-mode/zipball/v2.1.4",
+  "body": "### Security\n- Deny rules now apply to every shell language of ctx_execute (sh, bash, zsh, dash, ksh, fish) and to ctx_batch commands, checked per command segment like the Bash tool. The deny check now runs in linear time, so long input stays inside the hook budget. ([bcd2921](https://github.com/mksglu/context-mode/commit/bcd29213273617ab639741596d04b77544026df1))\n- Fetch blocks more private and special address ranges (shared 100.64.0.0/10, 0.0.0.0/8, 198.18.0.0/15, 240.0.0.0/4, fec0::/10, ::/96, 64:ff9b:1::/48), checks the IPv4 address inside NAT64 and 6to4 addresses, and checks every redirect hop. Stored line units now grow linearly with input size. ([6de3349](https://github.com/mksglu/context-mode/commit/6de334950b312db039dd51f783fc8dd23f542677))\n- ctx_upgrade keeps v1 data: old v1 data dirs are moved aside and kept, and a path reached through a link is reported and left as is. The PostToolUse hook reads persisted output only from its own session dir, as a plain file of at most 16 MiB. ([54c4e2d](https://github.com/mksglu/context-mode/commit/54c4e2d0455dcdd6b184e8d925b9741388d2ebb8))\n\n### Fixes\n- fix: guard test keeps the Claude Code Agent input unchanged on first call and resend (#1319)\n- fix: setup writes the stable Homebrew node link, so brew upgrade node keeps hooks and MCP running\n- fix: ctx_upgrade keeps v1 data and never follows a project link; hook reads persisted output only from its own session dir\n- fix: VS Code server reads the workspace from MCP roots, setup writes no ${workspaceFolder} in the user mcp.json\n- fix: ZCode native plugin install, Qwen project scope and Windows hook command, hook overhead as warning\n- fix: ctx_upgrade uses each agent's own update command, no release-branch clone (#1309)\n- fix: block more private fetch targets and bound line unit size\n- fix: OpenCode 2 host (Bun): doctor hook run, background launcher, read-only DB open, D3 entries, read size guard (#1310)\n- fix: CONTEXT_MODE_DATA_DIR moves the data root, so each Claude Code profile can keep its own store (#1318)\n- fix: gemini native install, GEMINI_CLI_HOME, AfterTool replace wording, Part lists\n- fix: apply user deny rules to every shell ctx_execute language, per segment, in linear time\n\n### Who gets this\n\nOne version on both channels: the release commit on main (GitHub) and npm.\n\n| Agent | Channel | Update with |\n|---|---|---|\n| Claude Code | GitHub | `claude plugin update context-mode@context-mode` |\n| Codex | GitHub, npm for the one-time hook trust step | `codex plugin marketplace upgrade context-mode` |\n| Gemini CLI | GitHub | `gemini extensions update context-mode` |\n| Qwen Code | GitHub | `qwen extensions update context-mode` |\n| Copilot CLI | npm | `context-mode upgrade` |\n| VS Code (Copilot) | npm | `context-mode upgrade` |\n| Kiro | npm | `context-mode upgrade` |\n| ZCode | GitHub | `zcode plugins update context-mode@context-mode` |\n| Pi | npm | `pi update --extensions` |\n| OpenCode | npm | `opencode plugin update` |\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/mksglu/context-mode/releases/435798200/reactions",
+    "total_count": 2,
+    "+1": 2,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
