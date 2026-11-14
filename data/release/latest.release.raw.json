@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1472071,
       "digest": "sha256:e7cd61872e362a33c2c6325014859847fc5c10d922c2154febd3e2b9f5c772bc",
-      "download_count": 16,
+      "download_count": 46,
       "created_at": "2026-11-12T15:38:15Z",
       "updated_at": "2026-11-12T15:38:16Z",
       "browser_download_url": "https://github.com/mksglu/context-mode/releases/download/v2.1.10/context-mode.tar.gz"
