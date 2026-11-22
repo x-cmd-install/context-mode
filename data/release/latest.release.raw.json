@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1492124,
       "digest": "sha256:1c327f8069fad019461309de01abf95c55b600362a141e642ad5e0aa535c59c3",
-      "download_count": 87,
+      "download_count": 100,
       "created_at": "2026-11-17T17:11:42Z",
       "updated_at": "2026-11-17T17:11:43Z",
       "browser_download_url": "https://github.com/mksglu/context-mode/releases/download/v2.2.1/context-mode.tar.gz"
@@ -78,13 +78,13 @@
   "body": "### Fixes\n- fix: omp read with a line range in the path is a bounded read, not replaced (#1392)\n- fix: recall skips rows and line units written after the latest compaction (#1394)\n- fix: SessionStart(compact) sends the state block once per compaction, not once per session (#1396)\n- fix: ctx_search names an unknown explicit source and the stored sources (#1390)\n- fix: setup keeps a working OpenCode install when the host list command exits non-zero (#1386)\n- fix: rtk proxy / bypass reads get the same Codex size check as the plain command (#1388)\n- fix: Windows mkdir EPERM on the context.db publish claim waits like EEXIST (#1385, D-1385-NOLINK-2)\n- fix: doctor lists a v1 data dir setup keeps as a note, not a FAIL (#1383)\n- fix: subagent with no route to the stored output gets it whole; built-in claude gets ctx_search (#1382)\n- fix: Pi >= 1.5 gets the payload as a named section, so <mcp_servers> stays (#1384)\n- fix: publish a fresh context.db where link() is denied (EACCES/EPERM on Android f2fs) (#1385)\n\n### Who gets this\n\nOne version on both channels: the release commit on main (GitHub) and npm.\n\n| Agent | Channel | Update with |\n|---|---|---|\n| Claude Code | GitHub | `claude plugin update context-mode@context-mode` |\n| Codex | GitHub, npm for the one-time hook trust step | `codex plugin marketplace upgrade context-mode` |\n| Gemini CLI | GitHub | `gemini extensions update context-mode` |\n| Qwen Code | GitHub | `qwen extensions update context-mode` |\n| Copilot CLI | npm | `context-mode upgrade` |\n| VS Code (Copilot) | npm | `context-mode upgrade` |\n| Kiro | npm | `context-mode upgrade` |\n| ZCode | GitHub | `zcode plugins update context-mode@context-mode` |\n| Pi | npm | `pi update --extensions` |\n| OpenCode | npm | `opencode plugin update` |\n| OMP | npm | `omp plugin upgrade context-mode` |",
   "reactions": {
     "url": "https://api.github.com/repos/mksglu/context-mode/releases/448952257/reactions",
-    "total_count": 5,
+    "total_count": 6,
     "+1": 0,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
-    "heart": 5,
+    "heart": 6,
     "rocket": 0,
     "eyes": 0
   }
