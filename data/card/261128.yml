@@ -1,0 +1,143 @@
+about:
+  description: "Free, local plugin that keeps tool output out of your coding agent's context window. Sandbox and SQLite FTS5 search, 99% fewer bytes in context. Works with Claude Code, Codex, Pi, OMP, OpenCode, Gemini CLI, Copilot CLI and 4 more agents. Zero telemetry."
+  license: NOASSERTION
+  homepage: https://contextmode.ai
+  head: 80bbddd
+  archived: false
+  latestVersion: "v2.2.4"
+  latestRelease: "v2.2.4"
+  latestPrerelease: "v2.0.0-next.40"
+  collectedAt: 2026-11-28T06:46:57Z
+timeline:
+  created: 2026-02-23
+  lastCommit: 2026-11-28
+  lastVersion: 2026-11-25
+  lastRelease: 2026-11-25
+  lastPrerelease: 2026-11-04
+popularity:
+  star: 34552
+  watcher: 110
+  fork: 2384
+  release: 246
+  contributor: 113
+  pullRequest: 0
+  issue: 717
+language:
+  JavaScript: 10318412
+  TypeScript: 1468346
+  HTML: 487085
+  Python: 1804
+totalBytes: 12275647
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 44
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 114
+    openIssue: 10
+    commit: 594
+  last60d:
+    since: 2026-09-29
+    release: 51
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 136
+    openIssue: 10
+    commit: 2378
+  last90d:
+    since: 2026-08-30
+    release: 51
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 193
+    openIssue: 10
+    commit: 2419
+  last180d:
+    since: 2026-06-01
+    release: 63
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 362
+    openIssue: 10
+    commit: 2742
+  last360d:
+    since: 2025-12-03
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 707
+    openIssue: 10
+    commit: 4411
+  last720d:
+    since: 2024-12-08
+    release: 100
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 707
+    openIssue: 10
+    commit: 4784
+total:
+  release: 246
+  mergedPR: 0
+  openPR: 0
+  closedIssue: 707
+  openIssue: 10
+  commit: 4784
+---
+path: /home/runner/.x-repo/github.com/mksglu/context-mode
+collectedAt: 2026-11-28T06:47:06Z
+loc:
+  JavaScript:
+    code: 230496
+    comments: 8842
+    blanks: 6181
+    files: 195
+  Json:
+    code: 93653
+    comments: 0
+    blanks: 64
+    files: 254
+  TypeScript:
+    code: 21884
+    comments: 3980
+    blanks: 2137
+    files: 131
+  Html:
+    code: 8518
+    comments: 77
+    blanks: 714
+    files: 16
+  Python:
+    code: 52
+    comments: 2
+    blanks: 1
+    files: 1
+  Css:
+    code: 34
+    comments: 2
+    blanks: 0
+    files: 1
+  Svg:
+    code: 10
+    comments: 6
+    blanks: 0
+    files: 2
+  Markdown:
+    code: 0
+    comments: 17037
+    blanks: 5482
+    files: 160
+  Text:
+    code: 0
+    comments: 11861
+    blanks: 1268
+    files: 34
+total:
+  code: 356779
+  comments: 41944
+  blanks: 16136
+  files: 794
+---
+
+---
